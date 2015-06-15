@@ -1,0 +1,28 @@
+.header{
+    background-image: url(turd.jpg);
+    text-align: center;
+    height: 200px;
+    margin: 0 auto;
+}
+body {
+    background: #6CDAFF;
+}
+
+#cockape{
+    margin: 0 auto;
+    width: 400px;
+    background-image: url(beaker.jpg);
+    color: green;
+}
+#fagape{
+    margin: 0 auto;
+    width: 400px;
+    background-image: url(beaker.jpg);
+    color: white;
+}
+.footer{
+    text-align: center;
+    background-image: url(turd.jpg);
+    height: 200px;
+    color: white;
+}
